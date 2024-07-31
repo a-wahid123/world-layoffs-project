@@ -1,6 +1,3 @@
-### README for Cleaning World Layoffs Dataset
-
-```markdown
 # Cleaning World Layoffs Dataset
 
 ## Project Overview
